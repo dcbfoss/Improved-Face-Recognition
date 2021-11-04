@@ -11,22 +11,22 @@ The repository is now attached with instructions on using the data.</br>
 ________________________________________</br>
 Hierarchical dataset structure</br>
 .</br>
-├─ IMF dataset</br>
-│─test</br>
-  ├── person0</br>
-  ├── person1</br>
-  ├── ...</br>
-  ├── person12</br>
-│─train</br>
-  ├── person0</br>
-  ├── person1</br>
-  ├── ...</br>
-  ├── person12</br>
-│─val</br>
-  ├── person0</br>
-  ├── person1</br>
-  ├── ...</br>
-  ├── person12</br>
+├─ <b>IMF dataset</b></br>
+&emsp;│─test</br>
+  &emsp;&emsp;├── person0</br>
+  &emsp;&emsp;├── person1</br>
+  &emsp;&emsp;├── ...</br>
+  &emsp;&emsp;├── person12</br>
+&emsp;│─train</br>
+  &emsp;&emsp;├── person0</br>
+  &emsp;&emsp;├── person1</br>
+  &emsp;&emsp;├── ...</br>
+  &emsp;&emsp;├── person12</br>
+&emsp;│─val</br>
+  &emsp;&emsp;├── person0</br>
+  &emsp;&emsp;├── person1</br>
+  &emsp;&emsp;├── ...</br>
+  &emsp;&emsp;├── person12</br>
 ├─ README.md</br>
 Usage</br>
 The folders have manually curated testing, training and validation images of different persons.  Each folder of individual contains: Masked face images: images containing face wearing mask along Non-masked face images: images containing face without wearing mask and images with various degree of mask occlusion. </br>
