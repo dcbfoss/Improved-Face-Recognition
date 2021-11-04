@@ -31,5 +31,5 @@ Hierarchical dataset structure</br>
 Usage</br>
 The folders have manually curated testing, training and validation images of different persons.  Each folder of individual contains: Masked face images: images containing face wearing mask along Non-masked face images: images containing face without wearing mask and images with various degree of mask occlusion. </br>
 Contact</br>
-For further expand the data, you are welcome to send me (bijijomy@gmail.com) an email attached with your personal pictures in 2 contexts: with and without mask. We will process the received pictures and add it to the repo afterwards.</br>
+Feel free to contact me  through mail (bijijomy@gmail.com) </br>
 
